@@ -22,5 +22,7 @@ public class Êı×ÖÅÅĞò {
 				map.put(array[i], map.get(array[i]) + 1);
 			}
 		}
+		
+		
 	}
 }
